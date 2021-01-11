@@ -3,4 +3,5 @@ purple
 orange 
 pink 
 blue
+green
 These are the color of the rainbows
